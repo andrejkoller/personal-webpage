@@ -23,8 +23,6 @@
 </div>
 <div align="left">
   <p>
-    Built this project with HTML, CSS and JS.<br> 
-    With this I became more familiar with Flexbox.<br> 
-    And responsive design.
+    I built this project using HTML, CSS, and JavaScript, which helped me become more familiar with Flexbox and responsive design.
   </p>
 </div>
