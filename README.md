@@ -1,6 +1,14 @@
 <div align="left">
   <h1>Personal Webpage 🎨🖌️</h1>
 </div>
+<div align="left">
+  <h3>ABOUT THIS PROJECT</h3>
+</div>
+<div align="left">
+  <p>
+    I built this project using HTML, CSS, and JavaScript, which helped me become more familiar with Flexbox and responsive design.
+  </p>
+</div>
 <div>
   <p>Demo: <span>https://andrejkoller.github.io/personal-webpage/</span></span></p>
 </div>
@@ -20,12 +28,4 @@
     <div>
     <img src="https://github.com/andrejkoller/personal-webpage/assets/155898625/0535de3c-fe59-42fa-90cb-7d9ae4f349b1">
   </div>
-</div>
-<div align="left">
-  <h3>ABOUT THIS PROJECT</h3>
-</div>
-<div align="left">
-  <p>
-    I built this project using HTML, CSS, and JavaScript, which helped me become more familiar with Flexbox and responsive design.
-  </p>
 </div>
