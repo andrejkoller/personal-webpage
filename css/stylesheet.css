@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2)
+    format("woff2");
+}
+
 * {
   font-family: "Poppins";
 }
@@ -12,6 +20,7 @@ body {
   color: #fff;
   background-color: #000;
   position: relative;
+  font-family: "Poppins", sans-serif;
 }
 
 @media all and (max-width: 1900px) {
