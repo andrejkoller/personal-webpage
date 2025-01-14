@@ -721,7 +721,7 @@ body {
 }
 
 .project-images-middle-first {
-  background-image: url("assets/images/placeholder-image.jpg");
+  background-image: url("../assets/images/placeholder-image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -799,7 +799,7 @@ body {
 }
 
 .project-images-middle-second {
-  background-image: url("assets/images/placeholder-image.jpg");
+  background-image: url("../assets/images/placeholder-image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -848,7 +848,7 @@ body {
 }
 
 .project-images-middle-third {
-  background-image: url("assets/images/placeholder-image.jpg");
+  background-image: url("../assets/images/placeholder-image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
